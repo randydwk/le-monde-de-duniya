@@ -5,7 +5,7 @@
 Le jeu est un RPG / action adventure dans un open world, où le joueur peut se déplacer librement et intéragir avec des personnages.
 
 |                LA LÉGENDE DE DUNIYA                |
-|                                                    |
+|----------------------------------------------------|
 | Sur les terres sacrées du monde de Duniya,         |
 | Depuis la nuit des temps vivent en paix les Gäyais.|
 | Aux quatres coins des villages sont érigés         |
