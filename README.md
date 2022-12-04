@@ -1,8 +1,8 @@
 # Le Monde de Duniya
 
-## Présentation du Monde de Duniya
+## Présentation
 
-Le jeu est un RPG / action adventure dans un open world, où le joueur peut se déplacer librement et intéragir avec des personnages.
+Le jeu est un RPG dans un open world, où le joueur peut se déplacer librement et intéragir avec des personnages.
 
 ```
           LA LÉGENDE DE DUNIYA
@@ -27,12 +27,6 @@ L'objectif du jeu et de récolter les 15 fragments de la pierre divine en répon
 
 Une image de la carte du jeu est disponible dans le dossier shots.
 
-## Démarrage du Jeu
+## Démarrage
 
-Pour démarrer le jeu, il faut taper les commandes suivantes :
-
-./compile.sh
-//compilation des fichiers présents dans 'src' et création des fichiers '.class' dans 'classes'
-
-./run.sh Duniya
-//lancement du jeu
+Pour démarrer le jeu, il faut taper les commandes `./compile.sh` puis `./run.sh Duniya`.
