@@ -4,7 +4,6 @@
 
 Le jeu est un RPG / action adventure dans un open world, où le joueur peut se déplacer librement et intéragir avec des personnages.
 
-|----------------------------------------------------|
 |                LA LÉGENDE DE DUNIYA                |
 |                                                    |
 | Sur les terres sacrées du monde de Duniya,         |
@@ -21,7 +20,6 @@ Le jeu est un RPG / action adventure dans un open world, où le joueur peut se d
 | Et la pierre divine, partout il répandit,          |
 | Attendant le héros qui aura le courage,            |
 | D'assembler les fragments pour rouvrir le lieudit. |
-|----------------------------------------------------|
 
 L'objectif du jeu et de récolter les 15 fragments de la pierre divine en répondant à différentes questions.
 
