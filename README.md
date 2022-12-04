@@ -4,23 +4,23 @@
 
 Le jeu est un RPG / action adventure dans un open world, où le joueur peut se déplacer librement et intéragir avec des personnages.
 
-o----------------------------------------------------o
-|                LA LÉGENDE DE DUNIYA                |
-|                                                    |
-| Sur les terres sacrées du monde de Duniya,         |
-| Depuis la nuit des temps vivent en paix les Gäyais.|
-| Aux quatres coins des villages sont érigés         |
-| Khäna, Ömnöd, Khoïd et enfin Baïna.                |
-|                                                    |
-| Au nord de Khoid, des milliers d'années plus tôt,  |
-| Les Gäyais magiciens par mépris déchaînèrent       |
-| Une malédiction, qui mena au chaos,                |
-| Mettant le Dieu Hikami en grande colère.           |
-|                                                    |
-| Hikami clôtura à jamais le village,                |
-| Et la pierre divine, partout il répandit,          |
-| Attendant le héros qui aura le courage,            |
-| D'assembler les fragments pour rouvrir le lieudit. |
+o----------------------------------------------------o<br/>
+|                LA LÉGENDE DE DUNIYA                |<br/>
+|                                                    |<br/>
+| Sur les terres sacrées du monde de Duniya,         |<br/>
+| Depuis la nuit des temps vivent en paix les Gäyais.|<br/>
+| Aux quatres coins des villages sont érigés         |<br/>
+| Khäna, Ömnöd, Khoïd et enfin Baïna.                |<br/>
+|                                                    |<br/>
+| Au nord de Khoid, des milliers d'années plus tôt,  |<br/>
+| Les Gäyais magiciens par mépris déchaînèrent       |<br/>
+| Une malédiction, qui mena au chaos,                |<br/>
+| Mettant le Dieu Hikami en grande colère.           |<br/>
+|                                                    |<br/>
+| Hikami clôtura à jamais le village,                |<br/>
+| Et la pierre divine, partout il répandit,          |<br/>
+| Attendant le héros qui aura le courage,            |<br/>
+| D'assembler les fragments pour rouvrir le lieudit. |<br/>
 o----------------------------------------------------o
 
 L'objectif du jeu et de récolter les 15 fragments de la pierre divine en répondant à différentes questions.
