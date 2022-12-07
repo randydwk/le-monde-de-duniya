@@ -29,4 +29,4 @@ Une image de la carte du jeu est disponible dans le dossier shots.
 
 ## Démarrage
 
-Pour démarrer le jeu, il faut taper les commandes `./compile.sh` puis `./run.sh Duniya`.
+Pour démarrer le jeu, il faut taper la commande `./duniya.sh`.
